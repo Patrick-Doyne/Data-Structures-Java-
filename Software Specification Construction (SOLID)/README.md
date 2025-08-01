@@ -1,6 +1,6 @@
 *Directory Description*:
 
-    - This folder contains several small user defined software API's that show the importance of following SOLID principles when coding in Java:
+    - This folder contains excercises & small user defined software API's that show the importance of following SOLID principles when coding in Java:
     
               1) Single Responsibility Principle:
                     - The Single Responsibility Principle states that a class should have only one reason to change, meaning it should have only one job or responsibility.
