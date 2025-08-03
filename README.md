@@ -12,7 +12,8 @@
                   many of the concepts from Liskov's work.
                   
             3) Aurora & Everest Project:
-                  - This directory is currently a work in process....
+                  - This directory is currently a work in process.... 
+                  - README.md files will be added to subdirectories once project is finished...
                   - Whats the Goal?:
                         * Take an excel and MSSQL data project I did for a company during a student-intership project, a few small user defined API's
                         that follow SOLID principles, and the JDBC import driver (used to connect the software to MSSQL) provided by Spring Boot dependencies. 
