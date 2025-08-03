@@ -15,6 +15,13 @@
                   - This directory is currently a work in process....
                   - Whats the Goal?:
                         * Take an excel and MSSQL data project I did for a company during a student-intership project, a few small user defined API's
-                        that follow SOLID principles, the JDBC import driver (used to connect the software to MSSQL) , and funnel all of that data to 
-                        a Python file that can run analyitcs and show graphical results. 
-  #### (NOTE: I might use RESTFUL API's for A&E Project to move data into python, but not sure yet :) ) ####
+                        that follow SOLID principles, and the JDBC import driver (used to connect the software to MSSQL) provided by Spring Boot dependencies. 
+                        Allows us to abstracts away all the nitty gritty. This can be seen as the "Industrial" grade backend since we have a concurrent enviornment
+                        used for storing instances/records in a MSSQL DB. 
+                        
+                        Then create a React form that sends requests to Node.js to populate graphical representations of the different data points (depends on the 
+                        button a user presses).
+
+                        Currently have a very strong grasp of Java, MSSQL, SOLID prinicples, and Spring Boot basics for a CRUD app
+                        
+###### (NOTE FOR OPTION #3: I'm learning this on my own. Since I am a full-time student and work 20-30 hours a week at a resturaunt my goal is to finish by EOY :) ) 
