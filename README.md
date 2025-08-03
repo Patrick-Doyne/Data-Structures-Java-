@@ -4,8 +4,9 @@
       data visually.
 
             1) Data Structures:
-                  - Subdirectory contains 2 projects inside. The first resembles a stock monitor and implements basic data structures. The
-                  second produces a visual walkthrough of a topological sort and the logic each step of the way. Shown through GUI.
+                  - Holds basic data structures; modeled in Java specifically. In general, the projects within cover HashMaps, DLL, SLL, and search trees 
+                  - Good display of generics and OOP prinicples
+                  - Programs use either a CLI in the terminal, GUI, or hardcoded values
                   
             2) Software Specification and Construction (SOLID):
                   - Contains excersises and small userdefined software API's that strongly follow SOLID principals. Improves and draws on
