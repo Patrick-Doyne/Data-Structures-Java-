@@ -4,6 +4,15 @@
   - Reads daily integer prices, computes each day’s span, and tracks the max span per price  
   - Developed for CS 310: Data Structures at George Mason University (Spring 2023)
 
+## *Tech Stack*:
+
+  - Language: Java (OpenJDK 11+)  
+  - IDE: Eclipse (local compilation and testing)  
+  - Input Format: CSV file parsing via basic Java I/O  
+  - Testing: Manual testing via `testMain()` and debug tracing  
+  - Code Quality: Checkstyle for formatting consistency, SpotBugs for basic static analysis  
+  - Version Control: N/A (project managed locally)  
+
 ## *Features Implemented*:
 
   - File I/O: load integer prices from `stocks.csv` into a `ThreeTenDLList<Integer>`  
