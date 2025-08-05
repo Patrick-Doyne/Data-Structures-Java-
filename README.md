@@ -26,4 +26,4 @@
 
                         Currently have a very strong grasp of Java, MSSQL, SOLID prinicples, and Spring Boot basics for a CRUD app
                         
-###### (NOTE FOR OPTION #3: I'm learning this on my own. Since I am a full-time student and work 20-30 hours a week at a resturaunt my goal is to finish by EOY :) ) 
+###### (NOTE FOR OPTION #3: I'm learning this on my own. Since I am a full-time student and work 20-30 hours a week at a resturaunt my goal is to finish by the end of August and give myself a sneak peak into this coming Fall's classes' material :) ) 
