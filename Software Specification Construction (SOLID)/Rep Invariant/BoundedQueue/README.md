@@ -1,6 +1,5 @@
 
-# Queue Selection Suite — Software Design and Execution Flow  
-=============================================================================
+# *Queue Selection Suite — Software Design and Execution Flow*  
 
 ## *Program Structure & Design*:
 
