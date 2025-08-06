@@ -1,4 +1,4 @@
-##  Directory Description
+##  *Directory Description*
 
 `Rep Invariants` is a focused Java folder showcasing two distinct perspectives on software architecture—one centered on design iteration, the other on specification enforcement. Each suite stands alone, yet both contribute to a shared theme: code clarity through structure and discipline.
 
