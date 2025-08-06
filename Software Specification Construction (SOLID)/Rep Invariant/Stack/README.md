@@ -1,5 +1,5 @@
-Stack Suite — Software Specification Construction  
-=================================================================================
+# *Stack Suite — Software Specification Construction*  
+
 
 ## *Program Structure & Design*:
 
