@@ -1,4 +1,4 @@
-*Directory Description*:
+## *Directory Description*:
 
     - This folder contains excercises & small user defined software API's that show the importance of following SOLID principles when coding in Java:
     
