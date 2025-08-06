@@ -1,4 +1,4 @@
-*Directory Description*:
+## *Directory Description*:
 
       - This directory contains several subdirectories each focusing in different areas of OOP in Java. Programs inside interact with GUI's, SQL, and (Coming Soon) Python to represent
       data visually.
