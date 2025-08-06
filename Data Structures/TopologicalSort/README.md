@@ -1,4 +1,4 @@
-## *Graph Simulator - Modular Java Framework with GUI and Topological Sort*
+# *Graph Simulator - Modular Java Framework with GUI and Topological Sort*
 
 ## *Program Structure & Design*:
 
